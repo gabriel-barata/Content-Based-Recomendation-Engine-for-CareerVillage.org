@@ -1,0 +1,2 @@
+# Content-Based-Recomendation-Engine-for-CareerVillage.org
+CareerVillage.org is a nonprofit that crowdsources career advice for underserved youth. Founded in 2011 in four classrooms in New York City, the platform has now served career advice from 25,000 volunteer professionals to over 3.5M online learners. The platform uses a Q&amp;A style similar to StackOverflow or Quora to provide students with answers to any question about any career.
